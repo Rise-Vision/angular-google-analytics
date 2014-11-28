@@ -1,0 +1,33 @@
+{
+    "name": "angular-google-analytics",
+    "version": "1.0.0",
+    "description": "AngularJS directive for Google Analytics.",
+    "main": "index.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "gulp test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Rise-Vision/angular-google-analytics.git"
+    },
+    "keywords": [
+        "angular",
+        "google",
+        "analytics"
+    ],
+    "author": "Rodrigo Serviuc Pavezi <rodrigopavezi@gmail.com>",
+    "license": "GNU GPL",
+    "bugs": {
+        "url": "https://github.com/Rise-Vision/angular-google-analytics/issues"
+    },
+    "homepage": "https://github.com/Rise-Vision/angular-google-analytics",
+    "devDependencies": {
+        "gulp": "~3.8.10",
+        "run-sequence": "^0.3.6",
+        "widget-tester": "git://github.com/Rise-Vision/widget-tester.git",
+        "gulp-jshint": "^1.9.0"
+    }
+}
